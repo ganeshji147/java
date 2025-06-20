@@ -1,4 +1,5 @@
-public class Main {
+package java;
+public class Main1 {
   public static void main(String[] args) {
     int i = 0;
     while (i < 5) {
