@@ -45,9 +45,9 @@ This project is licensed under the MIT License.
 See the LICENSE file for more info.
 
 🙋‍♂️ Contact
-Made with ❤️ by [Your Name]
-GitHub: @your-username
-Email: your.email@example.com
+Made with ❤️ by [MR.GANESH SINGH]
+GitHub:(https://github.com/ganeshji147)
+Email: ganeshforu00@gmail.com
 
 markdown
 Copy
